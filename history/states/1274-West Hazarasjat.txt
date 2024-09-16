@@ -1,0 +1,23 @@
+
+state={
+	id=1274
+	name="STATE_1274" 
+	manpower =135000
+
+	state_category = pastoral
+
+	history={
+		owner =AFG
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		10476 10896 12788 1995
+	}
+
+	local_supplies=0.0 
+}

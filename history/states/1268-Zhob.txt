@@ -1,0 +1,23 @@
+
+state={
+	id=1268
+	name="STATE_1268" 
+	manpower =458400
+
+	state_category = pastoral
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		7975 4990 7847 10813 8044
+	}
+
+	local_supplies=0.0 
+}
