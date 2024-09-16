@@ -1,0 +1,33 @@
+state={
+	id=286
+	name="STATE_286"
+
+
+	history={
+		add_core_of = MIN
+		owner = MIN
+		victory_points = {
+			4401 20
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 2
+			4401 = {
+				naval_base = 4
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4401 10261 7238
+	}
+	manpower=3200000
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=0.0 
+}
