@@ -1,0 +1,31 @@
+state={
+	id=747
+	name="STATE_747"
+	provinces={
+		4559 4937 7965 8126 10863 12789 12898 
+	}
+	resources={
+		steel=25
+		aluminium = 6
+		chromium=3
+	}
+	manpower=800000
+	buildings_max_level_factor=1.000
+	state_category = rural
+	history={
+		owner = MIN
+		
+		add_core_of = MIN
+		
+		victory_points = {
+			7965 5
+		}
+		buildings = {
+			infrastructure = 1
+		}
+
+
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,27 @@
+state={
+	id=755
+	name="STATE_755"
+	provinces={
+		10865 12890 10834 7997
+	}
+	resources={
+		chromium=8
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	history={
+		owner = MIN
+		
+		add_core_of = MIN
+		
+		buildings = {
+			infrastructure = 1
+
+		}
+
+
+	}
+
+	local_supplies=0.0 
+}
