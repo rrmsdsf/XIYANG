@@ -1,0 +1,20 @@
+state={
+	id=1239
+	name="STATE_1239"
+
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner =MIN
+		add_core_of =MIN
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	provinces={
+		13370 8037
+		
+	}
+	local_supplies=4.0 
+}

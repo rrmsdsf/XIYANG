@@ -1,0 +1,19 @@
+state={
+	id=1235
+	name="STATE_1235"
+
+	manpower = 210000
+	state_category = rural
+	history={
+		owner =CRO
+		add_core_of =CRO
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		3601 6611 591 13252
+		
+	}
+	local_supplies=4.0 
+}

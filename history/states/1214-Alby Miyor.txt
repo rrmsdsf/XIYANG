@@ -1,0 +1,27 @@
+state={
+	id=1214
+	name="STATE_1214"
+
+	manpower = 530000
+	state_category = town
+	history={
+		owner =FRA
+		add_core_of =FRA
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			6962 2
+		}
+		victory_points = {
+			752 1
+		}
+
+
+	}
+	provinces={
+		752 11709 6770 6962 3751 9723
+		
+	}
+	local_supplies=4.0 
+}

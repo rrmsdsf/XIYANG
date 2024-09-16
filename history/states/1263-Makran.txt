@@ -1,0 +1,23 @@
+
+state={
+	id=1263
+	name="STATE_1263" 
+	manpower =2100000
+
+	state_category = town
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5043 1179 7917 12774
+	}
+
+	local_supplies=0.0 
+}

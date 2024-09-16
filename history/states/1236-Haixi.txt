@@ -1,0 +1,19 @@
+state={
+	id=1236
+	name="STATE_1236"
+
+	manpower = 420000
+	state_category = rural
+	history={
+		owner =MIN
+		add_core_of =MIN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		2099 10750 12846 10796 4536
+		
+	}
+	local_supplies=4.0 
+}
