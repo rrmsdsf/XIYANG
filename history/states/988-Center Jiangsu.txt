@@ -1,0 +1,30 @@
+state= {
+	id=988
+	name="STATE_988"
+	manpower = 10600000
+	state_category = large_town
+	resources={
+		oil = 2
+	}
+
+	history= {
+		owner = MIN
+		
+		add_core_of = MIN
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex=3
+		}
+		victory_points={
+			4148 2
+		}
+
+
+	}
+	provinces={
+		4123 7142 7181 10095 9953 12067 1089 4001 4148
+	}
+
+	local_supplies=1.0 
+}

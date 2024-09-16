@@ -1,0 +1,33 @@
+state= {
+	id=997
+	name="STATE_997"
+	manpower = 6500000
+	state_category = large_town
+	resources={
+		aluminium = 43
+		chromium=10
+	}
+	history= {
+		owner = MIN
+		
+		add_core_of = MIN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex=2
+		}
+		victory_points={
+			7459 10
+		}
+		victory_points={
+			11931 15
+		}
+
+
+	}
+	provinces={
+		11931 7508 7459 4519 4547 1603 6932
+	}
+
+	local_supplies=1.0 
+}
