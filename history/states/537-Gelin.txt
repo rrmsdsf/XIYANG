@@ -1,0 +1,23 @@
+state= {
+	id=537
+	name="STATE_537"	#葛林
+	manpower = 295196
+	
+	state_category = rural
+
+	history= {
+		owner = MIN
+		add_core_of = MIN
+		
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+	provinces=
+	{	
+		12263 12192 675 4701 12261 4805	
+		}
+
+	local_supplies=0.0 
+}

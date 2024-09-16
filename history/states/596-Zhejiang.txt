@@ -1,0 +1,43 @@
+state=
+{
+	id=596
+	name="STATE_596"
+	manpower = 14000700
+	state_category = large_city
+	history=
+	{
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		victory_points = { 
+			9974 15
+		}
+		victory_points = { 
+			7191 20
+		}
+		
+		buildings = {
+			infrastructure = 2
+			dockyard = 3
+			industrial_complex=2
+
+			7191 = {
+				naval_base = 1
+				coastal_bunker = 1
+				bunker = 1
+			}
+			9974 = {
+				naval_base = 3
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+
+	}
+	provinces={
+		7191 4042 10101 11991 1096 7058 10014 12059 10058 7146 1168 9974
+	}
+
+	local_supplies=0.0 
+}
