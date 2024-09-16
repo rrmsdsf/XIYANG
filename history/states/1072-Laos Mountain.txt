@@ -1,0 +1,25 @@
+state={
+	id=1072
+	name="STATE_1072"
+	manpower = 120000
+	state_category = rural
+	history={
+		owner = MIN
+		add_core_of = SIA
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			9961 1
+		}
+		victory_points = {
+			12332 2
+		}
+	}
+	provinces={
+		7075 9961 4339 12332 1362 1390 10326
+		
+	}
+	local_supplies=4.0 
+}

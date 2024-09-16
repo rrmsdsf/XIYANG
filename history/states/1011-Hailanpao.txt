@@ -1,0 +1,24 @@
+state={
+	id = 1011
+	name = "STATE_1011" #海兰泡
+	manpower = 1708380
+
+
+	state_category = town
+
+	history = {
+		owner = MIN
+		buildings = {
+			infrastructure = 2
+			industrial_complex=2
+			air_base = 2
+		}
+		add_core_of = MIN
+	}
+
+	provinces = {
+		4725 7763 12654 10655
+	}
+
+	local_supplies = 0.0 
+}

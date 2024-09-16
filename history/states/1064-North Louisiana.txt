@@ -1,0 +1,18 @@
+state={
+	id=1064
+	name="STATE_1064"
+	manpower = 2100000
+	state_category = town
+	history={
+		owner = MXF
+		add_core_of = MXF
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		10355 1503 1559 7599 7555 4522
+		
+	}
+	local_supplies=4.0 
+}

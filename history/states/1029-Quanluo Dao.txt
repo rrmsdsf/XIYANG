@@ -1,0 +1,27 @@
+state={
+	id=1029
+	name="STATE_1029"
+	manpower = 4620000
+	
+	state_category = city
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points={
+			4126 5
+		}
+
+
+	}
+
+	provinces={
+		10085 1054 12085 10110 4126 11948 1177
+	}
+
+	local_supplies=0.0 
+}

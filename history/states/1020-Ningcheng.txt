@@ -1,0 +1,25 @@
+
+state={
+	id=1020
+	name="STATE_610" #宁城
+	manpower = 3275300
+	
+	state_category = pastoral
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		10499 6988 7575 972 7633 10426 9873 6937 
+	}
+
+	local_supplies=0.0 
+}
