@@ -1,0 +1,50 @@
+capital = 608
+
+set_technology = {
+    infantry_weapons = 1
+
+}
+
+
+
+
+recruit_character = MIN_Huangfu
+recruit_character = MIN_Chentianhua
+recruit_character = MIN_Chengjiacheng
+recruit_character = MIN_Fangjunying
+recruit_character = MIN_Gaoxv
+recruit_character = MIN_Liliejun
+recruit_character = MIN_Linsen
+recruit_character = MIN_Liuyazi
+recruit_character = MIN_Renbishi
+recruit_character = MIN_Tangshaoyi
+recruit_character = MIN_Yuyouren
+recruit_character = MIN_Zhangji
+recruit_character = MIN_Zhangxiaoxv
+recruit_character = MIN_Zhushaoping
+recruit_character = MIN_Zoulu
+
+
+set_popularities = {
+	reactionism = 45
+	totalist = 8
+	syndicalist = 5
+	radical_socialist = 5
+	social_democrat = 7
+	social_liberal = 2
+	market_liberal = 10
+	social_conservative = 1
+	national_populist = 17
+}
+set_politics = {
+
+	ruling_party = reactionism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_stability = 1.0
+set_war_support = 1.0
+set_convoys = 1200
+set_research_slots = 4
