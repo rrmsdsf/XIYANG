@@ -1,0 +1,39 @@
+
+state = {
+	id = 162
+	name = "STATE_162"
+	manpower = 1750000
+	
+	state_category = city
+
+	history = {
+		owner = TOS
+		victory_points = {
+			9907 15
+		}
+		victory_points = {
+			6973 1 
+		}
+		victory_points = {
+			6946 1 
+		}
+		buildings = {
+			infrastructure = 3 #was: 8
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 2
+			6973 = {
+				naval_base = 10
+			}
+		}
+		add_core_of = TOS
+
+	}
+
+	provinces = {
+		6973 1616 11889 6946 9907 9879
+	}
+
+	local_supplies = 0.0 
+}
