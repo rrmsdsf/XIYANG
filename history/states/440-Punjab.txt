@@ -1,0 +1,25 @@
+
+state={
+	id=440
+	name="STATE_440"
+	manpower = 2515000
+	
+	state_category = rural
+
+	history={
+		victory_points = {
+			10887 5
+		}
+		owner = RAJ
+		buildings = {
+			infrastructure = 2 #was: 5
+		}
+
+	}
+
+	provinces={
+		10887 12005 12822
+	}
+
+	local_supplies=0.0 
+}

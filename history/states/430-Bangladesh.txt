@@ -1,0 +1,30 @@
+state={
+	id=430
+	name="STATE_430"
+
+	history={
+
+		owner = SKA
+		add_core_of = SKA
+		victory_points = {
+			11929 20
+		}
+		buildings = {
+			infrastructure = 2 #was: 5
+			industrial_complex = 1
+			
+
+		}
+
+
+	}
+
+	provinces={
+		11929 9993 10416 12423 13208 4162
+	}
+	manpower=14000000
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=0.0 
+}

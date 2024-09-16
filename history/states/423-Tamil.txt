@@ -1,0 +1,35 @@
+
+state={
+	id=423
+	name="STATE_423" # Madurai
+	manpower = 29147500
+	
+	state_category = rural
+	
+	resources={
+		rubber=19 # was: 28
+	}
+
+	history={
+		owner = SKA
+		add_core_of = SKA
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+			air_base = 1
+			10278 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			10278 10
+		}
+
+	}
+
+	provinces={
+		10278 7436 4420 10149
+	}
+
+	local_supplies=0.0 
+}
