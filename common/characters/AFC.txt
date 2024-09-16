@@ -1,0 +1,17 @@
+characters={
+	AFC_Jiangkanghu={
+		name="江亢虎"
+		portraits={
+			civilian={
+				large="GFX_AFC_Jiangkanghu"
+			}
+		}
+		country_leader={
+			desc=""
+			ideology=reactionism_subtype
+			traits={  }
+			expire="1954.4.1.1"
+			id=-1
+		}
+	}
+}

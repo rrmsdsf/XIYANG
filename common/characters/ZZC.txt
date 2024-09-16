@@ -1,0 +1,17 @@
+characters={
+	ZZC_Zhangzongchang={
+		name="张宗昌"
+		portraits={
+			civilian={
+				large="GFX_ZZC_Zhangzongchang"
+			}
+		}
+		country_leader={
+			desc=""
+			ideology=reactionism_subtype
+			traits={  }
+			expire="1958.1.1.12"
+			id=-1
+		}
+	}
+}

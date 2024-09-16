@@ -1,0 +1,17 @@
+characters={
+	MXF_Liucaiyun={
+		name="刘文彩"
+		portraits={
+			civilian={
+				large="GFX_MXF_Liucaiyun"
+			}
+		}
+		country_leader={
+			desc=""
+			ideology=reactionism_subtype
+			traits={  }
+			expire="1958.1.1.12"
+			id=-1
+		}
+	}
+}

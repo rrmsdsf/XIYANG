@@ -1,0 +1,87 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_AFC_Jiangkanghu"
+		texturefile = "gfx/leaders/AFC/AFC_jiangkanghu.png"
+	}
+	SpriteType = {
+		name = "GFX_NLF_Yaodabang"
+		texturefile = "gfx/leaders/NLF/NLF_yaodabang.png" 
+	}
+	SpriteType = {
+		name = "GFX_HAN_Liuzhenhua"
+		texturefile = "gfx/leaders/HAN/HAN_liuzhenhua.png" 
+	}
+	SpriteType = {
+		name = "GFX_MXF_Liucaiyun"
+		texturefile = "gfx/leaders/MXF/MXF_liuyuncai.png" 
+	}
+	SpriteType = {
+		name = "GFX_ZZC_Zhangzongchang"
+		texturefile = "gfx/leaders/ZZC/ZZC_zhangzongchang.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Huangfu"
+		texturefile = "gfx/leaders/MIN/MIN_huangfu.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Chengjiacheng_s"
+		texturefile = "gfx/leaders/MIN/MIN_chengjiacheng_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Chentianhua_s"
+		texturefile = "gfx/leaders/MIN/MIN_chentianhua_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Fangjunying_s"
+		texturefile = "gfx/leaders/MIN/MIN_fangjunying_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Gaoxv_s"
+		texturefile = "gfx/leaders/MIN/MIN_gaoxv_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Liliejun_s"
+		texturefile = "gfx/leaders/MIN/MIN_liliejun_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Linsen_s"
+		texturefile = "gfx/leaders/MIN/MIN_lisen_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Liuyazi_s"
+		texturefile = "gfx/leaders/MIN/MIN_liuyazi_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Renbishi_s"
+		texturefile = "gfx/leaders/MIN/MIN_renbishi_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Tangshaoyi_s"
+		texturefile = "gfx/leaders/MIN/MIN_tangshaoyi_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Yuyouren_s"
+		texturefile = "gfx/leaders/MIN/MIN_yuyouren_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Zhangji_s"
+		texturefile = "gfx/leaders/MIN/MIN_zhangji_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Zhangxiaoxv_s"
+		texturefile = "gfx/leaders/MIN/MIN_zhangxiaoxv_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Zoulu_s"
+		texturefile = "gfx/leaders/MIN/MIN_zoulu_s.png" 
+	}
+	SpriteType = {
+		name = "GFX_MIN_Zhushaoping_s"
+		texturefile = "gfx/leaders/MIN/MIN_zhushaoping_s.png" 
+	}
+
+
+
+
+}
