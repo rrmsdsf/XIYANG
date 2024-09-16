@@ -1,0 +1,29 @@
+
+state={
+	id=65
+	name="STATE_65"
+	manpower = 1202576
+
+	state_category = town
+
+
+	history={
+		owner = SAK
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		victory_points = {
+			514 15
+		}
+		add_core_of = SAK
+
+	}
+
+	provinces={
+		514 573 3514 
+	}
+
+	local_supplies=0.0 
+}
