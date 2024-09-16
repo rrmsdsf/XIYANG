@@ -1,0 +1,35 @@
+
+state={
+	id=328
+	name="STATE_328" # Kirin
+	manpower = 6136267
+	
+	state_category = megalopolis
+
+	resources={
+		steel=27
+		oil = 8
+	}
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory=2
+		}
+		victory_points = {
+			10433 20
+		}
+
+	}
+
+	provinces={
+		800 861 927 946 3929 3947 7523 7591 7652 9782 9841 9883 9913 9928 10433 11823 11850 11862 11864 12412 
+	}
+
+	local_supplies=0.0 
+}

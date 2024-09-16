@@ -1,0 +1,29 @@
+
+state={
+	id=379 #北内华达盆地
+	name="STATE_379"
+	manpower = 91057
+	
+	state_category = rural
+	
+	resources={
+		steel=70 # was: 136
+		tungsten=32 # was: 62
+		aluminium=25 # was: 44
+	}
+
+	history={
+		owner = HAN
+		add_core_of = HAN
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		12607 4826 7721 10305 10625 12134 1862 4736 7827
+	}
+
+	local_supplies=0.0 
+}

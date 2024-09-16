@@ -1,0 +1,48 @@
+
+state={
+	id=378 #繁昌
+	name="STATE_378"
+	manpower = 1250000
+	
+	state_category = large_city
+	
+	resources={
+		oil=180 # was: 350
+		aluminium=8 # was: 14
+	}
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 4 #was: 6
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 2
+			air_base = 10
+			9671 = {
+				naval_base = 4
+			}
+		}
+
+		# victory_points = {
+		# 	9814 30
+		# }
+		# victory_points = {
+		# 	1562 15 
+		# }
+		victory_points = {
+			9671 25
+		}
+		# victory_points = {
+		# 	9713 1 
+		# }
+
+	}
+
+	provinces={
+		9671 3677 3678
+	}
+
+	local_supplies=0.0 
+}
