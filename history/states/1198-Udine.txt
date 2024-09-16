@@ -1,0 +1,21 @@
+state={
+	id=1198
+	name="STATE_1198"
+
+	manpower = 1200000
+	state_category = rural
+	history={
+		owner =ITA
+		add_core_of =ITA
+		buildings = {
+			infrastructure = 2
+		}
+
+
+	}
+	provinces={
+		3657 628 9613
+		
+	}
+	local_supplies=4.0 
+}

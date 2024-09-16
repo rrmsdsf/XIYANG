@@ -1,0 +1,22 @@
+state={
+	id=1169
+	name="STATE_1169"
+
+	manpower = 860000
+	state_category = rural
+	history={
+		owner = HES
+		add_core_of = HES
+		buildings = {
+			infrastructure = 2
+			
+		}
+
+
+	}
+	provinces={
+		11560 589 3574
+		
+	}
+	local_supplies=4.0 
+}

@@ -1,0 +1,22 @@
+state={
+	id=1193
+	name="STATE_1193"
+
+	manpower = 850000
+	state_category = town
+	history={
+		owner =CSK
+		add_core_of =CSK
+		buildings = {
+			infrastructure = 2
+		}
+
+
+
+	}
+	provinces={
+		11697 9884 9882 3740 11699 12169
+		
+	}
+	local_supplies=4.0 
+}

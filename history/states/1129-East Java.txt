@@ -1,0 +1,21 @@
+state={
+	id=1129
+	name="STATE_1129"
+
+	manpower = 4000000
+	state_category = large_town
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	provinces={
+		4390 12293 10491 10135 1209 10479 12472 7654 4608
+		
+	}
+	local_supplies=4.0 
+}

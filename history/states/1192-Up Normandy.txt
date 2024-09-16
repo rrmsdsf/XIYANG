@@ -1,0 +1,37 @@
+state={
+	id=1192
+	name="STATE_1192"
+
+	manpower = 1450000
+	state_category = large_town
+	history={
+		owner = NMD
+		add_core_of = NMD
+		buildings = {
+			infrastructure = 3
+			485={
+				naval_base = 3
+			}
+			9434={
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			9434 15
+		}
+		victory_points = {
+			11563 25
+		}
+		victory_points = {
+			485 5
+		}
+
+
+
+	}
+	provinces={
+		9578 9434 11563 485 6569 3549
+		
+	}
+	local_supplies=4.0 
+}

@@ -1,0 +1,25 @@
+state={
+	id=1167
+	name="STATE_1167"
+
+	manpower = 1250000
+	state_category = rural
+	history={
+		owner = WTB
+		add_core_of = WTB
+		buildings = {
+			infrastructure = 1
+			
+		}
+		victory_points={
+			11499 15
+		}
+
+
+	}
+	provinces={
+		11499 3690 9655 
+		
+	}
+	local_supplies=4.0 
+}
