@@ -1,0 +1,35 @@
+
+state={
+	id=607
+	name="STATE_607"
+	manpower=12009800
+	
+	state_category = city
+	resources={
+		aluminium = 24
+	}
+	buildings_max_level_factor=1.000
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 4 #was: 5
+			industrial_complex = 2
+			arms_factory=2
+		}
+		victory_points = {
+			9958 15
+		}
+		victory_points={
+			7656 20
+		}
+
+	}
+
+	provinces={
+		9958 7656 10364 1004 12012 4066
+	}
+
+	local_supplies=3.0 
+}
