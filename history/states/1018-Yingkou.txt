@@ -1,0 +1,32 @@
+state={
+	id=1018
+	name="STATE_1018"		#营口
+	resources={
+		steel=30
+		aluminium = 8
+		oil = 6
+	}
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 3
+
+		}
+
+	}
+
+	provinces={
+		3783 6918 964 11764 9835 11815 9781 892
+	}
+	manpower=3215100
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=1057
+	name="STATE_1057"
+	manpower = 24000
+
+	state_category = rural
+
+	history={
+		owner = MXF
+		add_core_of = MXF
+		buildings = {
+			infrastructure = 1
+
+
+		}
+		victory_points = {
+			4740 5
+		}
+
+
+
+
+
+	}
+
+	provinces={
+		7904 4740 11802 7762 10340 10798 
+		
+	}
+
+	local_supplies=4.0 
+}

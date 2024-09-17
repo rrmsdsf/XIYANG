@@ -1,0 +1,22 @@
+state={
+	id=1068
+	name="STATE_1068"
+	manpower = 1000000
+	state_category = rural
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			11936 10
+		}
+	}
+	provinces={
+		10129 11909 11936 10016 9988
+		
+	}
+	local_supplies=4.0 
+}

@@ -1,0 +1,29 @@
+state={
+	id=427
+	name="STATE_427"
+	manpower = 14013400
+	
+	state_category = town
+	
+
+
+	history={
+		owner = SKA
+		add_core_of = SKA
+		victory_points = {
+			8087 15
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+		}
+
+	}
+
+	provinces={
+		8087 1317 1275 4472 12114 4280 11950 10511
+	}
+
+	local_supplies=7.0 
+}

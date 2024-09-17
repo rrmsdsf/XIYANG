@@ -1,0 +1,37 @@
+
+state={
+	id=1044 #新定
+	name="STATE_1044"
+	manpower = 780000
+	resources={
+
+	}
+	
+	state_category = large_town
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 3
+			1562 = {
+				naval_base = 5
+			}
+			industrial_complex = 2
+			dockyard = 1
+
+		}
+		victory_points = {
+			1562 20
+		}
+
+
+
+	}
+
+	provinces={
+		7517 1562
+	}
+
+	local_supplies=4.0 
+}

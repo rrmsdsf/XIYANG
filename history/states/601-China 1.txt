@@ -1,0 +1,31 @@
+state={
+	id=601
+	name="STATE_601"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			10856 5
+		}
+
+	}
+
+	provinces={
+		10856 4407 5102 8059 8041
+	}
+	manpower=580000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=1.0 
+}

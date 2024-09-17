@@ -1,0 +1,28 @@
+state={
+	id=1013
+	name="STATE_1013"
+	
+	state_category = pastoral
+	resources={
+		tungsten = 4
+	}
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		10521 4551 10215 7569 12443 12500 12342 9623 6863 5427 9798
+	}
+	manpower=4834174
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

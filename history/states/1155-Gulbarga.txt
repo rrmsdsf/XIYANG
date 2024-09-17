@@ -1,0 +1,22 @@
+state={
+	id=1155
+	name="STATE_1155"
+
+	manpower = 5000000
+	state_category = rural
+	history={
+		owner = SKA
+		add_core_of = SKA
+		buildings = {
+			infrastructure = 1
+			
+		}
+
+	}
+	provinces={
+
+		5063 10311 1405 7060 7119 4072 10019 7177
+		
+	}
+	local_supplies=4.0 
+}

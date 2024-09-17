@@ -1,0 +1,34 @@
+state={
+	id=602
+	name="STATE_602"
+	resources={
+		tungsten = 5
+	}
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		buildings = {
+			infrastructure = 4 #was: 5
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		victory_points = {
+			7097 15
+		}
+		victory_points={
+			9999 3
+		}
+
+	}
+
+	provinces={
+		7097 1640 9999 13140 13143 12483 10517 12310
+	}
+	manpower=13003700
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=0.0 
+}

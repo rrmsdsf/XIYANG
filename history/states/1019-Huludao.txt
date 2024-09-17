@@ -1,0 +1,25 @@
+
+state={
+	id=1019
+	name="STATE_1019" #葫芦岛
+	manpower = 3104000
+	
+	state_category = pastoral
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		11886 6837 6898 3814 9905 3881 
+	}
+
+	local_supplies=0.0 
+}

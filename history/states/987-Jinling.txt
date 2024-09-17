@@ -1,0 +1,32 @@
+state= {
+	id=987
+	name="STATE_987"
+	manpower = 7600000
+	state_category = city
+	resources={
+
+	}
+
+	history= {
+		owner = MIN
+		
+		add_core_of = MIN
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex=2
+		}
+		victory_points = {
+			11913 45
+		}
+		victory_points={
+			11982 5
+		}
+
+	}
+	provinces={
+		11913 996 11982
+	}
+
+	local_supplies=1.0 
+}

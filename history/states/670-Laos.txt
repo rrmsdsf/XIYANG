@@ -1,0 +1,28 @@
+state={
+	id=670
+	name="STATE_670"
+	manpower = 1184000
+	
+	state_category = pastoral
+
+	history={
+		owner = MIN
+		add_core_of = SIA
+		victory_points = {
+			1464 15
+		}
+		victory_points = {
+			10496 5
+		}
+		buildings = {
+			infrastructure = 3
+		}
+
+	}
+
+	provinces={
+		1464 1507 10496 7356
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=1249
+	name="STATE_1249" 
+	manpower =870000
+
+	state_category = rural
+
+	history={
+		owner = MIN
+		buildings = {
+			infrastructure = 2
+			victory_points={
+				10229 5
+			}
+		}
+
+	}
+
+	provinces={
+		10229 12258 4219
+	}
+
+	local_supplies=0.0 
+}

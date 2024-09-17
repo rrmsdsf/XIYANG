@@ -1,0 +1,27 @@
+
+state = {
+	id = 408
+	name = "STATE_408"	#恰克拉
+	manpower = 541465
+	
+	state_category = rural
+
+	history={
+		owner =  MIN
+		buildings = {
+			infrastructure = 2
+			air_base = 5
+			957 = {
+				naval_base = 8
+				coastal_bunker = 3
+			}
+		}
+		add_core_of = MIN
+	}
+
+	provinces = {
+		664 681 837 3695 3723 3739 3753 3811 6686 6715 6833 9639 9641 9895 11624 11626 11629 11643 11745 11765 11777 11904 
+	}
+
+	local_supplies = 0.0 
+}

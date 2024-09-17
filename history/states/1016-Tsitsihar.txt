@@ -1,0 +1,25 @@
+state={
+	id=1016
+	name="STATE_1016"	#齐齐哈尔
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1502 12485 4876
+	}
+	manpower=4516872
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=0.0 
+}

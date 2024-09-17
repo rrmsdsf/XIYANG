@@ -1,0 +1,26 @@
+
+state={
+	id=445
+	name="STATE_445" # Quetta
+	manpower = 450100
+	
+	state_category = town
+
+	history={
+		victory_points = {
+			5105 1
+		}
+		owner = RAJ
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+
+	}
+
+	provinces={
+		5105 8013 12761 5075
+	}
+
+	local_supplies=0.0 
+}

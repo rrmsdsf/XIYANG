@@ -1,0 +1,33 @@
+
+state={
+	id=1014
+	name="STATE_1014" 
+	manpower = 5131864
+	
+	state_category = rural
+
+	resources={
+		aluminium=7 # was: 10
+	}
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		buildings = {
+			infrastructure = 2
+			#industrial_complex = 1
+		}
+		victory_points = {
+			4572 15
+		}
+
+	}
+
+	provinces={
+		4572 4503 11744 7663 1567 6947 3932 9866 6905 11781 9803 3949 9759 3888 3913 887 6868 945 9848
+	}
+
+	local_supplies=0.0 
+}

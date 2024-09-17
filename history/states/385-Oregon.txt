@@ -1,0 +1,32 @@
+
+state={
+	id=385
+	name="STATE_385"
+	manpower = 2560000
+	
+	state_category = city
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 4 #was: 5
+			industrial_complex = 1
+			air_base = 6
+			12211 = {
+				naval_base = 5
+			}
+		}
+
+		victory_points = {
+			3513 15
+		}
+
+	}
+
+	provinces={
+		10183 12211 3513 7398 4328 4274 4380
+	}
+
+	local_supplies=0.0 
+}

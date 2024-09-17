@@ -1,0 +1,25 @@
+state={
+	id=1194
+	name="STATE_1194"
+
+	manpower = 520000
+	state_category = rural
+	history={
+		owner =CSK
+		add_core_of =CSK
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points={
+			3749 5
+		}
+
+
+
+	}
+	provinces={
+		9717 6759 929 3749
+		
+	}
+	local_supplies=4.0 
+}

@@ -1,0 +1,28 @@
+state={
+	id=1112
+	name="STATE_1112"
+
+	manpower = 1800000
+	state_category = large_town
+	history={
+		owner = BRM
+		add_core_of = BRM
+		buildings = {
+			infrastructure = 2
+
+		}#1650是内比都！！！！！
+
+		victory_points={
+			1650 5
+		}
+		victory_points={
+			10386 10
+		}
+
+	}
+	provinces={
+		1650 7034 4202 4626 12449 4585 12404 4541 10386 12492 12335 7534 7163
+		
+	}
+	local_supplies=4.0 
+}

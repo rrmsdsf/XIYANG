@@ -1,0 +1,30 @@
+
+state={
+	id=386
+	name="STATE_386"
+	manpower = 120000
+	
+	state_category = large_city
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 1
+			air_base = 5
+
+		}
+
+
+
+	}
+
+	provinces={
+		7865 12183 4296 4398 4747 7255 7442 10155 10242 10271 10327 10690 12155 12214
+	}
+
+	local_supplies=0.0 
+}

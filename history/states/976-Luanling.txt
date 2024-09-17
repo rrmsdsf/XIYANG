@@ -1,0 +1,29 @@
+state= {
+	id=976
+	name="STATE_976"
+	manpower = 5800000
+	state_category = town
+	resources={
+		tungsten = 5
+	}
+
+	history= {
+		owner = MIN
+		
+		add_core_of = MIN
+		
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points={
+			4480 1
+		}
+
+
+	}
+	provinces={
+		10335 12017 4480 7665
+	}
+
+	local_supplies=1.0 
+}

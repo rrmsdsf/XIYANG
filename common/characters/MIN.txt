@@ -1,0 +1,256 @@
+characters={
+	MIN_Huangfu={
+		name=MIN_Huangfu
+		portraits={
+			civilian={
+				large="GFX_MIN_Huangfu"
+			}
+		}
+		country_leader={
+			desc=""
+			ideology=reactionism_subtype
+			traits={  }
+			expire="1954.4.1.1"
+			id=-1
+		}
+	}
+	MIN_Chengjiacheng={
+		name=MIN_Chengjiacheng
+		portraits={
+			civilian={
+				small="GFX_MIN_Chengjiacheng_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Chentianhua={
+		name=MIN_Chentianhua
+		portraits={
+			civilian={
+				small="GFX_MIN_Chentianhua_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Fangjunying={
+		name=MIN_Fangjunying
+		portraits={
+			civilian={
+				small="GFX_MIN_Fangjunying_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Gaoxv={
+		name=MIN_Gaoxv
+		portraits={
+			civilian={
+				small="GFX_MIN_Gaoxv_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Liliejun={
+		name=MIN_Liliejun
+		portraits={
+			civilian={
+				small="GFX_MIN_Liliejun_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Linsen={
+		name=MIN_Linsen
+		portraits={
+			civilian={
+				small="GFX_MIN_Linsen_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Liuyazi={
+		name=MIN_Liuyazi
+		portraits={
+			civilian={
+				small="GFX_MIN_Liuyazi_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Renbishi={
+		name=MIN_Renbishi
+		portraits={
+			civilian={
+				small="GFX_MIN_Renbishi_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Tangshaoyi={
+		name=MIN_Tangshaoyi
+		portraits={
+			civilian={
+				small="GFX_MIN_Tangshaoyi_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Yuyouren={
+		name=MIN_Yuyouren
+		portraits={
+			civilian={
+				small="GFX_MIN_Yuyouren_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Zhangji={
+		name=MIN_Zhangji
+		portraits={
+			civilian={
+				small="GFX_MIN_Zhangji_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Zhangxiaoxv={
+		name=MIN_Zhangxiaoxv
+		portraits={
+			civilian={
+				small="GFX_MIN_Zhangxiaoxv_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Zhushaoping={
+		name=MIN_Zhushaoping
+		portraits={
+			civilian={
+				small="GFX_MIN_Zhushaoping_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	MIN_Zoulu={
+		name=MIN_Zoulu
+		portraits={
+			civilian={
+				small="GFX_MIN_Zoulu_s"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			allowed  = {
+				original_tag  = MIN
+			}
+			traits  = {
+				
+			}
+		}
+	}
+	
+}

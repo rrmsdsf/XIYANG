@@ -1,0 +1,30 @@
+state={
+	id=1017
+	name="STATE_1017"	#丹东
+	resources={
+		steel=25
+	}
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 2
+
+		}
+
+	}
+
+	provinces={
+		6981 6860 6910 3839 3970 836 9854
+	}
+	manpower=2941215
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=0.0 
+}

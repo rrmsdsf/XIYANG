@@ -1,0 +1,25 @@
+state={
+	id=1221
+	name="STATE_1221"
+
+	manpower = 370000
+	state_category = rural
+	history={
+		owner =FRA
+		add_core_of =FRA
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			655 1
+		}
+
+
+
+	}
+	provinces={
+		655 3659 11596 629 9631
+		
+	}
+	local_supplies=4.0 
+}

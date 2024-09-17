@@ -1,0 +1,33 @@
+
+state={
+	id=594
+	name="STATE_594"
+	manpower = 3500000
+	state_category = large_city
+	resources={
+	}
+
+	history={
+		owner = MIN
+		
+		add_core_of = MIN
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+		}
+		victory_points = { 
+			7137 5
+		}
+		victory_points={
+			1018 1
+		}
+
+	}
+
+	provinces={
+		7137 11926 10050 1018 7192 12023
+	}
+
+	local_supplies=1.0 
+}

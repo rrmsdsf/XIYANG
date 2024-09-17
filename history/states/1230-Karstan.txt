@@ -1,0 +1,21 @@
+state={
+	id=1230
+	name="STATE_1230"
+
+	manpower = 1800000
+	state_category = large_town
+	history={
+		owner =CZE
+		add_core_of =CZE
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 6418 5 }
+		victory_points = { 9569 5 }
+	}
+	provinces={
+		6418 9421 9569 11556
+		
+	}
+	local_supplies=4.0 
+}

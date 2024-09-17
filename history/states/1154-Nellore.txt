@@ -1,0 +1,21 @@
+state={
+	id=1154
+	name="STATE_1154"
+
+	manpower = 5000000
+	state_category = town
+	history={
+		owner = SKA
+		add_core_of = SKA
+		buildings = {
+			infrastructure = 1
+			
+		}
+
+	}
+	provinces={
+		10756 12779 10152 7310 12180 1344 10897 4414
+		
+	}
+	local_supplies=4.0 
+}

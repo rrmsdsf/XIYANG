@@ -1,0 +1,31 @@
+
+state={
+	id=1047 #萨克拉门托
+	name="STATE_1047"
+	manpower = 3100000
+
+	state_category = large_city
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			dockyard = 2
+			arms_factory = 2
+
+		}
+
+
+
+
+
+	}
+
+	provinces={
+		6699 6694 6876 11763 4518 9911 11876 6881 3784 6861 986 3840 9637
+	}
+
+	local_supplies=4.0 
+}

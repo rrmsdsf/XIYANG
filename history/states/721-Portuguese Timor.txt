@@ -1,0 +1,25 @@
+
+state={
+	id=721
+	name="STATE_721"
+	manpower = 750000
+	
+	state_category = rural
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 2
+			12190 ={
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		1326 12178 12190 12206 13001 1339 4358 1355
+	}
+
+	local_supplies=0.0 
+}

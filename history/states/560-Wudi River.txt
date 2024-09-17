@@ -1,0 +1,22 @@
+
+state = {
+	id = 560
+	name = "STATE_560" # 兀地
+	manpower = 49651
+	
+	state_category = rural
+
+	history={
+		owner = MIN
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = MIN
+	}
+
+	provinces = {
+		1724 1772 1807 1842 7748 7871 10577 10590 12569 
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,22 @@
+state={
+	id=1075
+	name="STATE_1075"
+	manpower = 600000
+	state_category = town
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			1396 5
+		}
+	}
+	provinces={
+		1396 1423
+		
+	}
+	local_supplies=4.0 
+}

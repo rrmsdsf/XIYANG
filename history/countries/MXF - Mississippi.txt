@@ -1,0 +1,31 @@
+capital = 373
+
+recruit_character = MXF_Liucaiyun
+
+set_technology = {
+    infantry_weapons = 1
+
+}
+
+
+
+set_popularities = {
+	authoritarianism = 56
+	reactionism = 15
+	Revolutionary_nationalism = 3
+	liberalism = 4
+	immobilism = 7
+	lasaer_doctrine = 1
+	Ethnic_nationalism = 14
+}
+set_politics = {
+
+	ruling_party = authoritarianism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_stability = 1.0
+set_war_support = 0.2
+set_research_slots = 2

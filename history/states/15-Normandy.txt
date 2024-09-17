@@ -1,0 +1,34 @@
+
+state={
+	id=15
+	name="STATE_15"
+	manpower = 1202100
+	
+	state_category = town
+
+	history={
+		owner = NMD
+		add_core_of = NMD
+
+		victory_points = {
+			6449 3
+		}
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 2
+			6449 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+		}
+
+	}
+
+	provinces={
+		6449 9550 3579 539 11521 11535 553 6599
+	}
+
+	local_supplies=0.0 
+}

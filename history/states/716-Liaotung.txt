@@ -1,0 +1,37 @@
+state={
+	id=716
+	name="STATE_716"
+	resources={
+		aluminium = 18
+	}
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 5
+			964 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			11771 25
+		}
+
+	}
+
+	provinces={
+		846 987 3849 3895 6804 6951 9788 9885 11771 11808
+	}
+	manpower=8926462
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=0.0 
+}

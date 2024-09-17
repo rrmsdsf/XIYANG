@@ -1,0 +1,35 @@
+state={
+	id=756
+	name="STATE_756"
+	provinces={
+		2028 7971 5076 12596 12820 1778
+	}
+	resources={
+		steel=13
+		chromium=3
+		oil = 8
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	history={
+		owner = MIN
+		
+		add_core_of = MIN
+		
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points={
+			2028 1
+		}
+		victory_points={
+			12820 3
+		}
+
+
+	}
+
+	local_supplies=0.0 
+}

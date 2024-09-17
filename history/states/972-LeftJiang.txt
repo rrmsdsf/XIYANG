@@ -1,0 +1,27 @@
+state= {
+	id=972
+	name="STATE_972"
+	manpower = 3400000
+	state_category = town
+	resources={
+		steel=4
+		aluminium = 42
+	}
+
+	history= {
+		owner = MIN
+		
+		add_core_of = MIN
+		
+		buildings = {
+			infrastructure = 2
+		}
+
+
+	}
+	provinces={
+		4121 4177 1469 4656 4077 10004
+	}
+
+	local_supplies=1.0 
+}

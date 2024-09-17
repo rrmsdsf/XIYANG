@@ -1,0 +1,23 @@
+
+state={
+	id=1275
+	name="STATE_1275" 
+	manpower =83000
+
+	state_category = wasteland
+
+	history={
+		owner =MIN
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		7519
+	}
+
+	local_supplies=0.0 
+}

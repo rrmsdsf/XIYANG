@@ -1,0 +1,27 @@
+state={
+	id=729
+	name="STATE_729"
+	manpower = 2805000
+	
+	state_category = city
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			4425 1 
+		}
+
+	}
+
+	provinces={
+		4087 1197 4318 1581 10486 12464 10920 
+		4996 1934 4425 1082 8063 4588
+	}
+
+	local_supplies=0.0 
+}

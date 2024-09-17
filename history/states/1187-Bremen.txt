@@ -1,0 +1,23 @@
+state={
+	id=1187
+	name="STATE_1187"
+
+	manpower = 130000
+	state_category = rural
+	history={
+		owner = BLM
+		add_core_of = BLM
+		buildings = {
+			infrastructure = 1
+			
+		}
+
+
+
+	}
+	provinces={
+		374 3326
+		
+	}
+	local_supplies=4.0 
+}

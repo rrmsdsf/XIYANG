@@ -1,0 +1,23 @@
+
+state={
+	id = 1012
+	name = "STATE_1012" # 雅克萨
+	manpower = 1004281
+	
+	state_category = town
+
+	history = {
+		owner = MIN
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+		add_core_of = MIN
+	}
+
+	provinces = {
+		12657 10678 7851 12543 12660 7691 1845 1730 
+	}
+
+	local_supplies = 6.0 
+}

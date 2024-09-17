@@ -1,0 +1,29 @@
+
+state={
+	id=1046 #尤里卡
+	name="STATE_1046"
+	manpower = 2500000
+
+	state_category = city
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+
+
+
+	}
+
+	provinces={
+		768 6772 6745 11658 677 6681 6757 9730
+	}
+
+	local_supplies=4.0 
+}

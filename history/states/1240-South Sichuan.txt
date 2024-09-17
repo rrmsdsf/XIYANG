@@ -1,0 +1,21 @@
+state={
+	id=1240
+	name="STATE_1240"
+
+	state_category = large_town
+	history={
+		owner =MIN
+		add_core_of =MIN
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			1395 5
+		}
+	}
+	provinces={
+		1395 7240 12705 12819 11972
+		
+	}
+	local_supplies=4.0 
+}

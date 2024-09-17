@@ -1,0 +1,29 @@
+state={
+	id=1191
+	name="STATE_1191"
+
+	manpower = 2800000
+	state_category = city
+	history={
+		owner = BRI
+		add_core_of = BRI
+		buildings = {
+			infrastructure = 3
+			
+		}
+		victory_points = {
+			11465 30
+		}
+		victory_points = {
+			9495 5
+		}
+
+
+
+	}
+	provinces={
+		11465 9510 9495 9525 11508 6548
+		
+	}
+	local_supplies=4.0 
+}

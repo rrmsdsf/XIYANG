@@ -1,0 +1,27 @@
+
+state={
+	id=433
+	name="STATE_433" # Rajasthan
+	manpower = 41286000
+	
+	state_category = town
+	
+
+	history={
+		victory_points = {
+			2054 10
+		}
+		owner = RAJ
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces={
+		2054 4915 7905 7998 1908 4971
+	}
+
+	local_supplies=9.0 
+}

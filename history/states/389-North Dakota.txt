@@ -1,0 +1,31 @@
+
+state={
+	id=389
+	name="STATE_389"
+	manpower = 680844
+	state_category = rural
+	resources={
+		steel=17 # was: 24
+		oil=7 # was: 10
+	}
+
+	history={
+		owner = ZZC
+		add_core_of = ZZC
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+
+		victory_points = {
+			1836 5
+		}
+
+	}
+
+	provinces={
+		1836 4772 10685 7862 4880 12620
+	}
+
+	local_supplies=9.0 
+}

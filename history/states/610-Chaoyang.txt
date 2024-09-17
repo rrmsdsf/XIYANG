@@ -1,0 +1,25 @@
+
+state={
+	id=610
+	name="STATE_610" # 朝阳
+	manpower = 2865300
+	
+	state_category = pastoral
+
+	history={
+		owner = MIN
+		add_core_of = MIN
+		
+		
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		4514 9927 6852 3934 934 11855 3828 
+	}
+
+	local_supplies=0.0 
+}

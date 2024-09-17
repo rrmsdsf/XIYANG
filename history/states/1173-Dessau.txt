@@ -1,0 +1,22 @@
+state={
+	id=1173
+	name="STATE_1173"
+
+	manpower = 850000
+	state_category = town
+	history={
+		owner = AHT
+		add_core_of = AHT
+		buildings = {
+			infrastructure = 2
+			
+		}
+
+
+	}
+	provinces={
+		3499 9560 6487
+		
+	}
+	local_supplies=4.0 
+}

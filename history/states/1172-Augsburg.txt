@@ -1,0 +1,22 @@
+state={
+	id=1172
+	name="STATE_1172"
+
+	manpower = 250000
+	state_category = rural
+	history={
+		owner = BAF
+		add_core_of = BAF
+		buildings = {
+			infrastructure = 1
+			
+		}
+
+
+	}
+	provinces={
+		6693 11620 11638 9666 708 6540
+		
+	}
+	local_supplies=4.0 
+}
